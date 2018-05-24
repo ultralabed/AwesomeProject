@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/ed/git/mobile/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/ed/git/mobile/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/ed/git/mobile/AwesomeProject/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
